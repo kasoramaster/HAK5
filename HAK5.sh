@@ -19,7 +19,7 @@ rasma(){
 			██║  ██║██║  ██║██║  ██╗███████║  
 			╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 				$yellow Welcome $green($blue$my_ip$green)
-				$yellow By :$red MOHAMED$green HACKER  
+				$yellow By :$red LUTHER SMITH$green HEAVEN&HELL OVERWATCH  
 	"""
 
 }
@@ -46,30 +46,30 @@ main(){
 	echo -e " $green[$yellow X $green]$blue Exit\n"
 	sleep 0.2
 	echo -e $white 
-	read -p "[ H_A_K_5 ]~# " MOHAMED
-	if [ $MOHAMED = 1 ];then
+	read -p "[ H_A_K_5 ]~# " HEAVEN
+	if [ $HEAVEN = 1 ];then
 		Fix_KaiL
-	elif [ $MOHAMED = 2 ];then
+	elif [ $HEAVEN = 2 ];then
 		PayLoaD
-	elif [ $MOHAMED = 3 ]; then
+	elif [ $HEAVEN = 3 ]; then
 		cd .model
 		bash .hashing.sh
-	elif [ $MOHAMED = 4 ]; then
+	elif [ $HEAVEN = 4 ]; then
 		cd .model
 		bash .msf.sh
-	elif [ $MOHAMED = 5 ]; then
+	elif [ $HEAVEN = 5 ]; then
 		kailHunter
-	elif [ $MOHAMED = 6 ]; then
+	elif [ $HEAVEN = 6 ]; then
 		web
-	elif [ $MOHAMED = 7 ];then
+	elif [ $HEAVEN = 7 ];then
 		TOoLs
-	elif [ $MOHAMED = 8 ]; then
+	elif [ $HEAVEN = 8 ]; then
 		ddos
-	elif [ $MOHAMED = 9 ]; then
+	elif [ $HEAVEN = 9 ]; then
 		serve
-	elif [ "$MOHAMED" = "X" ] || [ "$MOHAMED" = "x" ]; then
+	elif [ "$HEAVEN" = "X" ] || [ "$HEAVEN" = "x" ]; then
 		exit 
-	elif [ "$MOHAMED" = "ip" ] || [ "$MOHAMED" = "IP" ]; then
+	elif [ "$HEAVEN" = "ip" ] || [ "$HEAVEN" = "IP" ]; then
 		ip 
 	else :
 		rasma
@@ -291,12 +291,12 @@ PayLoaD(){
 		elif [ $root = 0 ] ; then
 			clear
 			echo -e $green
-			figlet "		MOHAMED"
+			figlet "		HEAVEN"
 			echo -e "$red++++++++++++++++++++++++++++++++++++++" 
 			sleep 0.1
-			echo -e "$yellow By : $green MOHAMED $cyan HACKER"
+			echo -e "$yellow By : $green LUTHER SMITH $cyan HEAVEN&HELL OVERWATCH"
 			sleep 0.1
-			echo -e "$yellow Telegram $red @HcmohtatefOfficial"
+			echo -e "$yellow Telegram $red @heaven_officially"
 			sleep 0.1
 			echo -e "$red++++++++++++++++++++++++++++++++++++++" 
 			sleep 3
@@ -422,12 +422,12 @@ PayLoaD(){
 		elif [ $termux = 0 ] ; then
 			clear
 			echo -e $green
-			figlet "		MOHAMED"
+			figlet "		HEAVEN"
 			echo -e "$red++++++++++++++++++++++++++++++++++++++" 
 			sleep 0.1
-			echo -e "$yellow By : $green MOHAMED $cyan HACKER"
+			echo -e "$yellow By : $green LUTHER SMITH $cyan HEAVEN&HELL WATCH"
 			sleep 0.1
-			echo -e "$yellow Telegram $red @HcmohtatefOfficial"
+			echo -e "$yellow Telegram $red @heaven_officially"
 			sleep 0.1
 			echo -e "$red++++++++++++++++++++++++++++++++++++++" 
 			sleep 3
@@ -439,12 +439,12 @@ PayLoaD(){
 	elif [ $payload = 0  ]; then
 		clear
 		echo -e $green
-		figlet "          MOHAMED"
+		figlet "          HEAVEN"
 		echo -e "$red++++++++++++++++++++++++++++++++++++++" 
 		sleep 0.1
-		echo -e "$yellow By : $green MOHAMED $cyan HACKER"
+		echo -e "$yellow By : $green LUTHER SMITH $cyan HEAVEN&HELL OVERWATCH"
 		sleep 0.1
-		echo -e "$yellow Telegram $red @HcmohtatefOfficial"
+		echo -e "$yellow Telegram $red @heaven_officially"
 		sleep 0.1
 		echo -e "$red++++++++++++++++++++++++++++++++++++++" 
 		sleep 3
@@ -863,12 +863,12 @@ nmap-p(){
 	elif [ $scan = 0 ]; then
 		clear
 		echo -e $green
-		figlet "		MOHAMED"
+		figlet "		HEAVEN"
 		echo -e "$red++++++++++++++++++++++++++++++++++++++" 
 		sleep 0.2
-		echo -e "$yellow By : $green MOHAMED $cyan HACKER"
+		echo -e "$yellow By : $green LUTHER SMITH $cyan HEAVEN&HELL OVERWATCH"
 		sleep 0.2
-		echo -e "$yellow Telegram $red @HcmohtatefOfficial"
+		echo -e "$yellow Telegram $red @heaven_officially"
 		sleep 0.2
 		echo -e "$red++++++++++++++++++++++++++++++++++++++" 
 		sleep 2
@@ -1123,7 +1123,7 @@ ddos(){
 		if [ "$ToR" = "y" ] || [ "$ToR" = "Y" ];then
 			clear
 			figlet ToR
-			echo -e "\n$red Firset go To $green[etc/proxychains.conf]"
+			echo -e "\n$red First go To $green[etc/proxychains.conf]"
 			echo -e "$red and edit and choase the $yellow[strict_chain] $white BY:> remove (#) "
 			echo -e -n "$red when you done $yellow[Enter to contnet]" ; read Enter
 			service tor start
@@ -1190,9 +1190,9 @@ exit(){
 
 	echo -e "$red++++++++++++++++++++++++++++++++++++++" 
 	sleep 0.2
-	echo -e "$yellow By : $green MOHAMED $cyan HACKER"
+	echo -e "$yellow By : $green LUTHER SMITH $cyan HEAVEN&HELL OVERWATCH"
 	sleep 0.2
-	echo -e "$yellow Telegram $red @HcmohtatefOfficial"
+	echo -e "$yellow Telegram $red @heaven_officially"
 	sleep 0.2
 	echo -e "$red++++++++++++++++++++++++++++++++++++++" 
 			                                                                                
